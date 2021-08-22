@@ -1,15 +1,17 @@
 import React from 'react';
-import {Layout} from './components/';
+import { Layout, Profile, Repositories } from './components/';
+import { ResetCSS } from './global/resetCSS';
+
 function App() {
   return (
-    <>
-     <Layout>
-       <div>User</div>
-       <div>Repositories</div>
-       <div>Starred</div>
-     </Layout>
-    </>
-   
+    <main>
+      <ResetCSS/>
+      <Layout>
+      <Profile />
+      <Repositories/>
+      </Layout>
+    </main>
+
   );
 }
 
