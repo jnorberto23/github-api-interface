@@ -12,7 +12,7 @@ const Profile = () => {
                 <div>
                     <h1>Joao</h1>
                     <S.WrapperUserName>
-                        <h3>Username:</h3>
+                        <h3a>Username:</h3a>
                         <a
                             href="www.google.com.br"
                             target="_blank"
