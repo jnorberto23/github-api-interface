@@ -1,9 +1,8 @@
 import React from "react";
-import Layout from "./components/Layout";
-import NoSearch from "./components/NoSearch";
-import Profile from "./components/Profile";
-import Repositories from "./components/Repositories";
 import useGithub from "./hooks/github-hooks";
+
+import {Layout, NoSearch, Profile, Repositories} from "./components";
+
 
 const App = () => {
   const { githubState } = useGithub();
