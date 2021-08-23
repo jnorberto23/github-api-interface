@@ -12,7 +12,7 @@ const Header = () => {
   };
 
   return (
-    <header>
+   
       <S.Wrapper>
         <input
           type="text"
@@ -23,7 +23,7 @@ const Header = () => {
           <span>Buscar</span>
         </button>
       </S.Wrapper>
-    </header>
+  
   );
 };
 
