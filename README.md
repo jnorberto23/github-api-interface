@@ -1,8 +1,6 @@
 # Github Interface 
 
-<p align="center">Projeto realizado no Bootcamp de React do Digital Inovation One</p>
-
-<p align="center"><a href="https://restaurants-search-dun.vercel.app/">Github Interface</a></p>
+<p align="center"><a href="https://github-api-interface-bice.vercel.app/">Github Interface</a></p>
 
 <p align="center">
   <img alt="web-preview" src=".github/imagem.png" width="100%">
