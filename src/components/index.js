@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from './header';
 import Layout from './Layout';
 import NoSearch from './NoSearch';
 import Profile from './Profile';
